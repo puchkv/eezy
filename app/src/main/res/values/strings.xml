@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">izzy</string>
+
+    <string name="degree">%d°</string>
+    <string name="timer_default_string">00:00:00</string>
+    <string name="icon_for_timer">Icon for timer</string>
+    <string name="location">Локація</string>
+    <string name="default_location_string">00.0000</string>
+    <string name="longitude">Довгота</string>
+    <string name="latitude">Широта</string>
+    <string name="default_speed_string">00.00</string>
+    <string name="speed">Швидкість</string>
+    <string name="average_speed">Average speed</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="wow">Отакої!</string>
+    <string name="request_permission">Для використання додатку необхідно надати дозвіл на використання служб визначення локації.</string>
+    <string name="allow_permissions">Надати дозволи</string>
+    <string name="gps_allow_message">Увага! Додаток не буде працювати, якщо не отримає необхідні дозволи. Ви впевненні, що хочете надати дозволи?</string>
+    <string name="access_denied">В доступі відмовлено</string>
+    <string name="access_banned">Додатку заборонено використовувати цю службу</string>
+
+    <string name="location_services">Служби локації</string>
+    <string name="on">Ввімкнути</string>
+    <string name="location_request_string">Для роботи додатку необхідно ввімкнути служби отримання локації.</string>
+    <string name="settings">Налаштування</string>
+    <string name="change_theme">Змінити тему</string>
+    <string name="accuracy">Точність</string>
+    <string name="bearing">Азімут</string>
+    <string name="altitude">Висота над рівнем моря</string>
+    <string name="internet_disabled">Відсутнє підключення до інтернету</string>
+</resources>
